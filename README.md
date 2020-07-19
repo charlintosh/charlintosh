@@ -6,7 +6,7 @@ Hi, I'm Carlos Gómez, a man passionate about science, specifically in computer 
 
 # Social networks
 <a href="https://www.linkedin.com/in/charlintosh">
-<img src="https://res.cloudinary.com/charlintosh/image/upload/v1595191902/github/linkedin_rqn1tm.svg" alt="linkedin" height="55" width="55">
-</a> <a href="https://dev.to/charlintosh">
-<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Carlos Gómez Suárez's DEV Profile" height="60" width="60">
-</a> <a href="https://stackoverflow.com/users/11391999/charlintosh"><img src="https://stackoverflow.com/users/flair/11391999.png" width="208" height="58" alt="profile for charlintosh at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for charlintosh at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<img src="https://res.cloudinary.com/charlintosh/image/upload/v1595191902/github/linkedin_rqn1tm.svg" alt="linkedin" height="30" width="30">
+</a><a href="https://dev.to/charlintosh">
+<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Carlos Gómez Suárez's DEV Profile" height="30" width="30">
+</a><a href="https://stackoverflow.com/users/11391999/charlintosh"><img src="https://stackoverflow.com/users/flair/11391999.png" width="108" height="30" alt="profile for charlintosh at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for charlintosh at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
